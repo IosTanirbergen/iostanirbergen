@@ -3,8 +3,17 @@
 ##  Hello World 👋
 
 
-Latest Youtube Videos
+ # Программист | Mobile Software Engineer 🌚
 
+ ## About Me 🌚
+
+ ### 🔸 📱 iOS Developer / Freelancer
+ ### 🔸 ✨ UI / UX Enthusiast
+ ### 🔸 📖 Open Source Contributor
+ ### 🔸 ♥️ Exploring new places
+ ### 🔸 💻 One line of code at a time
+ ### 🔸 💻 One line of code at a time
+ ### 🔸 💁🏻I share my Insights, Tricks, and Tips on iOS development on my Instagram.
 
 
 
