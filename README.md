@@ -3,7 +3,7 @@
 ##  Hello World 👋
 
 
- # Программист | Mobile Software Engineer  :trollface: 
+ # Программист | Mobile Software Engineer 🤘
 
  ## About Me 🌚
 
