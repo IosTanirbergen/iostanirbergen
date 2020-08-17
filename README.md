@@ -20,3 +20,11 @@ Latest Youtube Videos
 ![MongoDB](https://img.shields.io/badge/-MongoDB-Green?style=for-the-badge&logo=MongoDb&logoColor=white)
 ![FireBase](https://img.shields.io/badge/-FireBase-Perple?style=for-the-badge&logo=FireBase&logoColor=white)
 
+
+### Follow me
+
+[![VK](https://img.shields.io/badge/-VK-black?style=for-the-badge&logo=VK)](https://vk.com/id546783102)
+[![Inst](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/iamtanir/)
+[![WebSite](https://img.shields.io/badge/-Website-black?style=for-the-badge&logo=Web)](http://project2863414.tilda.ws/)
+[![Youtube](https://img.shields.io/badge/-Youtube-black?style=for-the-badge&logo=Youtube)](https://www.youtube.com/channel/UCe0rqy-QR0saJFIpWkmaUSg?view_as=subscriber)
+[![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram)](@DeveloperTanirbergen)
