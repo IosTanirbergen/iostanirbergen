@@ -12,7 +12,6 @@
  ### 🔸 📖 Open Source Contributor
  ### 🔸 ♥️ Exploring new places
  ### 🔸 💻 One line of code at a time
- ### 🔸 💻 One line of code at a time
  ### 🔸 💁🏻I share my Insights, Tricks, and Tips on iOS development on my Instagram.
 
 
